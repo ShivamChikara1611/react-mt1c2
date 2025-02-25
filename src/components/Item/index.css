@@ -4,3 +4,21 @@
   align-items: center;
   text-decoration: none;
 }
+
+li{
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 15%;
+}
+
+.ci{
+  height: 75px;
+  width: 55px;
+  margin-right: 8px;
+}
+
+.cn{
+  color: #1e293b;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
